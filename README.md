@@ -1,5 +1,5 @@
 # demo_git
 Une demo de Git
-Une modification a ÈtÈ faite
+Une modification a √©t√© faite
 
-
+Ceci est une deuxi√®me modification
